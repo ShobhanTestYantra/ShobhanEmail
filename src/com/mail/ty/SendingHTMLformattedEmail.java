@@ -22,7 +22,7 @@ public class SendingHTMLformattedEmail {
 		String aSubject = "Hi .. This is mail ";
 		String msg = "Your email client does not support HTML messages";
 
-		System.out.println("Email initialzed ...");
+		System.out.println("Email initialazed ...");
 
 		// load your HTML email template
 	//	String htmlEmailTemplate = ".... <img src=\"http://www.apache.org/images/feather.gif\"> ....";
